@@ -1,17 +1,17 @@
 body {
     font-family: "Roboto Mono", monospace;
     min-height: 600px;
-    background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png");
+    /* background-image: url("https://www.alura.com.br/assets/img/imersoes/dev-2021/dia-03-mentalista.png"); */
+    background-image: url("https://wallpaperforu.com/wp-content/uploads/2022/09/Wallpaper-Stranger-Things-Netflix-scaled.jpg");
     background-color: #000000;
-    background-size: cover;
-    background-position: center bottom;
+    background-position: center;
     background-repeat: no-repeat;
   }
   
   .container {
     text-align: center;
     padding: 20px;
-    height: 100vh;
+    /* height: 100vh; */
   }
   
   .page-title {
